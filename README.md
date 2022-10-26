@@ -1,3 +1,3 @@
-# exercicios-python
+# Exercícios Python
 
 - Repositório para pratica de Python
