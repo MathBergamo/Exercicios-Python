@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a98e0c92-d248-4bed-aa6a-7f72a8c57266" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios-pýthon/CodeSignal/ex001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios-pýthon/CodeSignal/ex002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios-pýthon/CodeSignal/ex003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios-pýthon/CodeSignal/ex004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios-pýthon/CodeSignal/ex005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exs/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exs/.idea/Exs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exs/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exs/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exs/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exs/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exs/aba-teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exs/ex050.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exs/ex051.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exs/ex052.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +70,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "E:/Estudos/exercicios-python"
+    "last_opened_file_path": "E:/Estudos/Cursos/Curso - Curso em Vídeo/Python"
   }
 }]]></component>
   <component name="RecentsManager">
